@@ -1,4 +1,4 @@
-# Trufla Task
+# ITworx Task
 > Technical Task For ITworx
 
 ## Table of contents
